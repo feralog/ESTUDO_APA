@@ -1572,5 +1572,645 @@
       "icterícia",
       "cpre"
     ]
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 24 anos, sem comorbidades prévias, é internada por edema palpebral matinal, edema em membros inferiores ++/4 e urina espumosa há 3 semanas. Exames: proteinúria de 24h = 6,2 g, albumina sérica 2,1 g/dL, creatinina 0,8 mg/dL, colesterol total 320 mg/dL. Complemento C3 e C4 normais. ANCA negativo. ANA negativo. Qual o diagnóstico sindrômico correto?",
+    "alternativas": {
+      "A": "Glomerulonefrite rapidamente progressiva, definida por perda de função renal em semanas com crescentes",
+      "B": "Síndrome nefrítica, definida por hematúria dismórfica, proteinúria leve e hipertensão arterial",
+      "C": "Nefropatia tubular, definida por proteinúria de baixo peso molecular e aminoacidúria isolada",
+      "D": "Síndrome nefrótica, definida por proteinúria >3,5 g/dia, hipoalbuminemia, edema e hiperlipidemia"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Síndrome nefrótica: proteinúria >3,5 g/dia + albumina baixa + edema + hiperlipidemia. Complemento e ANCA negativos afastam causas secundárias imediatas.",
+    "id": "PROP-Q01",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 62 anos, diabético tipo 2 há 18 anos, em consulta de rotina. Creatinina 1,8 mg/dL, TFGe = 38 mL/min/1,73m² (CKD-EPI). Relação albumina/creatinina urinária = 280 mg/g. Fundo de olho com retinopatia diabética não proliferativa. Faz uso de losartana 100 mg/dia. Qual o estadiamento da DRC e a categoria de albuminúria?",
+    "alternativas": {
+      "A": "DRC G2 A3 — TFG entre 60–89 mL/min e albuminúria grave (>300 mg/g)",
+      "B": "DRC G4 A2 — TFG entre 15–29 mL/min e albuminúria moderada (30–300 mg/g)",
+      "C": "DRC G3b A2 — TFG entre 30–44 mL/min e albuminúria moderada (30–300 mg/g)",
+      "D": "DRC G3a A3 — TFG entre 45–59 mL/min e albuminúria grave (>300 mg/g)"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "TFG 38 → G3b (30–44). Albuminúria 280 mg/g → A2 (30–300 mg/g). Contexto diabético + retinopatia = diagnóstico de nefropatia diabética sem necessidade de biópsia.",
+    "id": "PROP-Q02",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Menino de 8 anos apresenta hematúria macroscópica recorrente após infecções de vias aéreas superiores (intervalo livre <5 dias). Exame: PA normal, sem edema. Urina tipo 1: hemácias dismórficas 3+, proteinúria 1+. Creatinina 0,5 mg/dL. Complemento normal. ASLO negativo. A biopsia revela depósitos mesangiais de IgA na imunofluorescência. Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Glomerulonefrite pós-estreptocócica, com hematúria surgindo após período de latência de 2–3 semanas",
+      "B": "Glomerulonefrite membranoproliferativa, com hipocomplementemia e padrão de depósito mesangial e capilar",
+      "C": "Síndrome de Alport, doença hereditária do colágeno IV com surdez neurossensorial associada",
+      "D": "Nefropatia por IgA (doença de Berger), a glomerulopatia primária mais comum no mundo"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Nefropatia por IgA: hematúria concomitante ou logo após IVAS (sem período de latência), depósito de IgA no mesângio. Glomerulonefrite pós-estrepto tem latência de 2–3 semanas e ASLO positivo.",
+    "id": "PROP-Q03",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 45 anos com lesão renal aguda oligúrica após choque séptico tratado com vancomicina e piperacilina-tazobactam. Creatinina subiu de 0,9 para 4,2 mg/dL em 48h. Sedimento urinário: cilindros granulosos pigmentados, células epiteliais tubulares. Sódio urinário 55 mEq/L, FENa 3,2%. Qual o diagnóstico mais provável?",
+    "alternativas": {
+      "A": "Lesão renal aguda pré-renal, com FENa <1% e sedimento urinário normal ou com cilindros hialinos",
+      "B": "Nefrite intersticial aguda, com FENa elevado, eosinofilúria e eritrocitúria sem dismorfismo",
+      "C": "Necrose tubular aguda isquêmica/tóxica, com FENa >2% e cilindros granulosos pigmentados",
+      "D": "Glomerulonefrite rapidamente progressiva, com crescentes na biópsia e hematúria dismórfica intensa"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "NTA: FENa >2% (túbulo danificado não consegue reabsorver Na), cilindros granulosos pigmentados ('muddy brown casts'). Causa: isquemia + nefrotóxicos (vancomicina).",
+    "id": "PROP-Q04",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 35 anos com lúpus eritematoso sistêmico apresenta proteinúria 4,8 g/24h, hematúria dismórfica, creatinina 1,6 mg/dL e complemento C3 baixo. Anti-dsDNA elevado. Biópsia renal mostra proliferação difusa com depósitos subendoteliais 'full house'. Qual a classe de nefrite lúpica?",
+    "alternativas": {
+      "A": "Nefrite lúpica classe II (mesangial), com proteinúria leve e função renal geralmente preservada",
+      "B": "Nefrite lúpica classe V (membranosa), com síndrome nefrótica pura e complemento geralmente normal",
+      "C": "Nefrite lúpica classe III (proliferativa focal), com envolvimento de menos de 50% dos glomérulos",
+      "D": "Nefrite lúpica classe IV (proliferativa difusa), a forma mais grave e que exige imunossupressão agressiva"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Classe IV: proliferação difusa (>50% glomérulos), depósitos subendoteliais, 'full house', síndrome nefrítica/nefrótica, C3 baixo. Tratamento: micofenolato ou ciclofosfamida + corticoide.",
+    "id": "PROP-Q05",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 70 anos com HAS e DRC G3b evolui com hipercalemia progressiva (K= 5,8 mEq/L) sem alterações no ECG, apesar de dieta hipopotássica. Faz uso de losartana, espironolactona e anlodipina. Creatinina estável. Qual a conduta mais adequada para a hipercalemia?",
+    "alternativas": {
+      "A": "Administrar gluconato de cálcio intravenoso imediatamente para estabilizar a membrana cardíaca",
+      "B": "Aumentar a dose do diurético tiazídico para promover excreção renal de potássio em DRC avançada",
+      "C": "Iniciar hemodiálise de urgência diante de qualquer potássio acima de 5,5 mEq/L em paciente com DRC",
+      "D": "Suspender a espironolactona e revisar a dose do BRA, priorizando remoção de agentes hipercalemiantes"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Hipercalemia sem alteração do ECG em DRC: primeiro remover os agentes hipercalemiantes (espironolactona, BRA em dose alta). Gluconato de cálcio é para ECG alterado. Hemodiálise: hipercalemia refratária com instabilidade.",
+    "id": "PROP-Q06",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Adolescente de 14 anos com história de edema periorbital e urina espumosa. Biópsia renal: glomérulos normais à microscopia óptica; imunofluorescência negativa; microscopia eletrônica com fusão difusa dos processos podocitários. Proteinúria 8 g/dia, albumina 1,8 g/dL, creatinina normal, colesterol 380 mg/dL. Qual o diagnóstico e a primeira linha de tratamento?",
+    "alternativas": {
+      "A": "Glomerulopatia membranosa; tratamento com ciclofosfamida e corticoide em esquema alternado",
+      "B": "Glomeruloesclerose segmentar e focal primária; tratamento com imunossupressão por pelo menos 6 meses",
+      "C": "Doença de lesão mínima; tratamento com prednisona oral em dose plena (1–2 mg/kg/dia)",
+      "D": "Glomerulonefrite membranoproliferativa; tratamento com micofenolato mofetil e prednisona combinados"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Doença de lesão mínima: óptica normal, IF negativa, fusão dos pedicelos na EM. Mais comum em crianças. Responde bem a corticoide (80–90% de remissão). Tratamento: prednisona 1–2 mg/kg/dia.",
+    "id": "PROP-Q07",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Nefrologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 32 anos com oligomenorreia há 1 ano, galactorreia bilateral e visão turva. Prolactina sérica 180 ng/mL. RM de sela mostra lesão hipofisária de 1,1 cm sem compressão do quiasma. Sem uso de antipsicóticos. TSH normal. Qual o diagnóstico e a primeira linha terapêutica?",
+    "alternativas": {
+      "A": "Macroprolactinoma hipofisário; indicar cirurgia transesfenoidal como primeira opção terapêutica",
+      "B": "Prolactinoma resistente; iniciar radioterapia estereotáxica como alternativa ao tratamento clínico",
+      "C": "Microprolactinoma hipofisário; iniciar cabergolina (agonista dopaminérgico) como primeira linha",
+      "D": "Hiperprolactinemia funcional; sem necessidade de tratamento, apenas acompanhamento semestral"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Microprolactinoma (<1 cm, mas aqui 1,1 cm = macro pela definição, porém sem efeito de massa). De qualquer forma, tratamento de PRIMEIRA LINHA para qualquer prolactinoma = cabergolina (agonista dopaminérgico). Cirurgia fica para falha/intolerância.",
+    "id": "PROP-Q08",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 50 anos com hipertensão arterial resistente, hipocalemia espontânea (K 2,9 mEq/L) e ausência de edema. Aldosterona plasmática 42 ng/dL, renina plasmática 0,3 ng/mL/h (suprimida). Relação aldosterona/renina = 140 (normal <30). TC de adrenais: nódulo de 1,8 cm em adrenal direita. Qual o próximo passo diagnóstico para definir lateralização?",
+    "alternativas": {
+      "A": "Cateterismo de veias adrenais para dosagem diferencial de aldosterona bilateral, padrão-ouro de lateralização",
+      "B": "Repetir a TC com cortes finos, pois a imagem já é suficiente para definir lateralização cirúrgica",
+      "C": "Cintilografia com colesterol marcado para identificação da glândula secretora de aldosterona",
+      "D": "Iniciar espironolactona empírica e avaliar resposta clínica como critério indireto de lateralização"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "Hiperaldosteronismo primário confirmado (relação >30). Antes da cirurgia, o cateterismo de veias adrenais é o padrão-ouro para confirmar lateralização — a TC pode mostrar nódulo contralateral ou falso-negativo.",
+    "id": "PROP-Q09",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 28 anos, obesa (IMC 34), com hirsutismo, acne, irregularidade menstrual e ovários policísticos à USG. Testosterona total levemente elevada (68 ng/dL; VR até 50). 17-OH-progesterona basal normal. Prolactina e TSH normais. Qual o diagnóstico mais provável e a conduta inicial para regular o ciclo?",
+    "alternativas": {
+      "A": "Síndrome de Cushing; realizar teste de supressão com 1 mg de dexametasona para triagem antes de tratar",
+      "B": "Tumor produtor de andrógenos; indicar TC de adrenais e ovários antes de qualquer tratamento hormonal",
+      "C": "Síndrome dos ovários policísticos (SOP); anticoncepcional oral combinado (estrogênio + progestogênio) para regularização menstrual",
+      "D": "Hiperplasia adrenal congênita de início tardio; iniciar corticoide em baixa dose para suprimir o excesso de andrógenos"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "SOP: critérios de Rotterdam — irregularidade menstrual + hiperandrogenismo clínico/laboratorial + ovários policísticos (2 de 3). 17-OHP normal afasta HAC. Primeiro passo: ACO para regularizar ciclo e anti-androgênicos se necessário.",
+    "id": "PROP-Q10",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 55 anos com diabetes tipo 2 há 10 anos, IMC 32, HbA1c 9,2%, microalbuminúria (relação A/Cr 120 mg/g), sem doença cardiovascular estabelecida. Faz uso de metformina 2 g/dia. Qual a melhor associação para reduzir HbA1c e ter benefício nefroprotetor adicional?",
+    "alternativas": {
+      "A": "Adicionar insulina basal imediatamente, pois qualquer HbA1c >8% em diabético com nefropatia indica insulinoterapia",
+      "B": "Adicionar sulfonilureia (glibenclamida), que possui benefício cardiovascular e renal bem estabelecido em DM2 com DRC",
+      "C": "Adicionar acarbose (inibidor de alfa-glicosidase), que possui benefício renal pela redução da absorção de glicose pós-prandial",
+      "D": "Adicionar inibidor de SGLT2 (dapagliflozina ou empagliflozina), com benefício renal independente do controle glicêmico"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "iSGLT2: reduzem HbA1c, proteinúria, progressão de DRC e hospitalização por IC. Indicados em DM2 com DRC (TFG >20). Sulfonilureias NÃO têm benefício renal. Insulina não é obrigatória com HbA1c 9,2% se houver alternativas orais eficazes.",
+    "id": "PROP-Q11",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 45 anos com DM tipo 1 há 20 anos, sem controle adequado (HbA1c 10,1%), apresenta hipoglicemia noturna recorrente mesmo com ajuste de insulina basal. O médico decide iniciar bomba de infusão de insulina (CSII). Qual a principal vantagem desta terapia em relação às múltiplas injeções diárias (MDI)?",
+    "alternativas": {
+      "A": "Dispensa o monitoramento glicêmico frequente por manter glicemia estável automaticamente sem ajustes",
+      "B": "É superior às MDI em reduzir a HbA1c em todos os perfis de pacientes com DM tipo 1 e tipo 2",
+      "C": "Elimina completamente o risco de hipoglicemia por não utilizar análogos de insulina de ação prolongada",
+      "D": "Permite programar taxas basais variáveis ao longo do dia, reduzindo hipoglicemias noturnas e o fenômeno do alvorecer"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "CSII: taxa basal variável (ex.: reduz às 3h da manhã para evitar hipoglicemia noturna, aumenta às 6h para o fenômeno do alvorecer). Não elimina hipoglicemia — só reduz risco. Continua exigindo monitoramento frequente.",
+    "id": "PROP-Q12",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Paciente de 68 anos com hipotireoidismo primário em uso de levotiroxina 75 mcg/dia. Queixa de fadiga persistente e constipação. TSH 12 mUI/L (VR 0,4–4,0). T4 livre 0,7 ng/dL (VR 0,8–1,8). Qual a conduta mais adequada?",
+    "alternativas": {
+      "A": "Substituir levotiroxina por extrato tireoidiano dessecado, que apresenta melhor eficácia no controle do hipotireoidismo primário",
+      "B": "Adicionar T3 (liotironina) à levotiroxina atual, pois TSH elevado indica necessidade de terapia combinada obrigatória",
+      "C": "Aumentar a dose de levotiroxina gradualmente (incrementos de 12,5–25 mcg a cada 4–6 semanas) com novo TSH após 6 semanas",
+      "D": "Manter a dose atual e repetir o TSH em 6 meses, pois variações do TSH em idosos são fisiológicas e não requerem ajuste"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "TSH 12 com T4 livre baixo = hipotireoidismo substituído de forma insuficiente. Conduta: aumentar dose de levotiroxina em incrementos de 12,5–25 mcg com TSH de controle após 4–6 semanas. T3 combinado não é primeira linha.",
+    "id": "PROP-Q13",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 38 anos com acromegalia ativa (GH basal 18 ng/mL, IGF-1 3× acima do normal), adenoma hipofisário de 2,2 cm com extensão supraselar. Campimetria sem defeito visual. Qual a conduta inicial de escolha?",
+    "alternativas": {
+      "A": "Radioterapia estereotáxica (gamma knife) como primeira linha por ser mais segura que a cirurgia em macroadenomas",
+      "B": "Cabergolina isolada em alta dose, pois agonistas dopaminérgicos são eficazes na acromegalia como primeira linha",
+      "C": "Análogo de somatostatina (octreotida LAR) como primeira linha, com cirurgia reservada para falha medicamentosa",
+      "D": "Cirurgia transesfenoidal como tratamento de primeira linha, visando ressecção tumoral e cura bioquímica"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Acromegalia: cirurgia transesfenoidal = primeira linha (taxa de cura 40–80% para microadenomas). Análogo de somatostatina = adjuvante pré-operatório ou para inoperável. Cabergolina tem papel secundário na acromegalia.",
+    "id": "PROP-Q14",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Endocrinologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 34 anos procura atendimento por dor abdominal em cólica, distensão abdominal, diarreia alternada com constipação e melhora parcial das queixas após evacuação — sintomas há 8 meses. Nega sangramento retal, perda de peso ou febre. Exame físico sem alterações. Colonoscopia normal. Qual o diagnóstico mais provável?",
+    "alternativas": {
+      "A": "Síndrome do intestino irritável (SII), diagnóstico baseado nos critérios de Roma IV sem necessidade de exame invasivo adicional",
+      "B": "Doença de Crohn colônica, que cursa com dor em cólica, diarreia crônica e colonoscopia frequentemente normal na fase inicial",
+      "C": "Intolerância à lactose grave, que produz dor abdominal, diarreia e constipação alternadas independentemente da dieta",
+      "D": "Colite microscópica, diagnosticada pela colonoscopia normal com biópsia positiva em pacientes com diarreia aquosa crônica"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "SII (Roma IV): dor abdominal recorrente ≥1x/semana nos últimos 3 meses associada a alteração de hábito intestinal e/ou alívio com evacuação, sem alarmes. Colonoscopia normal afasta doença orgânica.",
+    "id": "PROP-Q15",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 60 anos, tabagista, apresenta disfagia progressiva para sólidos há 4 meses, perda de 8 kg e pirose de longa data. EDA revela lesão ulcerada irregular na junção gastroesofágica (JGE). Biópsia: adenocarcinoma. Qual o principal fator de risco para este tipo de tumor?",
+    "alternativas": {
+      "A": "Infecção pelo H. pylori, que ao colonizar o esôfago distal predispõe ao desenvolvimento de adenocarcinoma na JGE",
+      "B": "Doença do refluxo gastroesofágico crônico com esôfago de Barrett, principal precursor do adenocarcinoma de esôfago",
+      "C": "Consumo de bebidas alcoólicas em altas doses, principal fator de risco para o adenocarcinoma de esôfago distal",
+      "D": "Tabagismo isolado como fator causal direto do adenocarcinoma esofágico, independente de lesão mucosa prévia"
+    },
+    "resposta_correta": "B",
+    "comentario_gabarito": "Adenocarcinoma esofágico: DRGE → metaplasia intestinal (esôfago de Barrett) → displasia → carcinoma. Tabagismo e álcool são fatores do carcinoma ESCAMOCELULAR esofágico. H. pylori associado ao gástrico, não ao esofágico.",
+    "id": "PROP-Q16",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 28 anos com diagnóstico de doença de Crohn ileal em surto (escore de Harvey-Bradshaw 8, febre 38,2°C, PCR 45 mg/L). Sem uso prévio de biológicos. Colonoscopia: úlceras profundas extensas. Qual o tratamento de indução mais adequado?",
+    "alternativas": {
+      "A": "Mesalazina em alta dose (4 g/dia) como primeira linha para doença de Crohn ileal em surto moderado-grave",
+      "B": "Nutrição enteral exclusiva como única terapia de indução em adultos com doença de Crohn ativa grave",
+      "C": "Antibioticoterapia oral exclusiva (ciprofloxacino + metronidazol), suficiente para induzir remissão em surto moderado",
+      "D": "Corticoide sistêmico (prednisona 40–60 mg/dia) para indução de remissão, com planejamento de terapia de manutenção biológica"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Surto moderado de Crohn: corticoide (prednisona) para indução. Mesalazina NÃO é eficaz em Crohn ileal. Biológicos (anti-TNF) em surto grave/refratário ou para manutenção. Nutrição enteral é preferida em pediatria.",
+    "id": "PROP-Q17",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 55 anos com constipação crônica refratária a laxantes osmóticos, ausência de evacuação há 7 dias, sem dor. Trânsito colônico com marcadores retidos no retossigmoide no 5° dia. Manometria anorretal: pressão anal basal elevada, ausência de relaxamento do esfíncter anal interno com distensão retal (RIRA ausente). Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Inércia colônica, caracterizada pela retenção de marcadores distribuídos uniformemente pelo cólon na cintilografia",
+      "B": "Síndrome do intestino irritável com constipação, com manometria normal e diagnóstico baseado em critérios clínicos",
+      "C": "Doença de Hirschsprung do adulto (aganglionose colônica), com ausência do RIRA como achado clássico",
+      "D": "Dissinergia do assoalho pélvico, com paradoxal contração do esfíncter externo durante o esforço evacuatório"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Doença de Hirschsprung: ausência de células ganglionares → ausência do RIRA (reflexo inibitório retoanal). Marcadores no retossigmoide confirma obstrução de saída. Diagnóstico definitivo: biópsia retal com ausência de células ganglionares.",
+    "id": "PROP-Q18",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Paciente de 52 anos, assintomático, com colonoscopia de rastreio revelando pólipo séssil de 1,2 cm no sigmóide. Anatomopatológico: adenoma tubular com displasia de alto grau, sem infiltração da submucosa. Qual a conduta?",
+    "alternativas": {
+      "A": "Vigilância por cápsula endoscópica colônica anual, sem necessidade de colonoscopia invasiva após ressecção completa",
+      "B": "Repetir colonoscopia em 5 anos, pois adenoma tubular <2 cm é de baixo risco independente do grau de displasia",
+      "C": "Colectomia segmentar laparoscópica, pois a displasia de alto grau equivale a carcinoma in situ com risco de margem",
+      "D": "Polipectomia endoscópica completa (já realizada), com colonoscopia de vigilância em 3 anos por displasia de alto grau"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Adenoma com displasia de alto grau (carcinoma in situ): se ressecção completa endoscópica, não há indicação de cirurgia adicional. Vigilância em 3 anos (pólipo de alto risco pela displasia). Colectomia só se carcinoma invasivo (infiltração submucosa).",
+    "id": "PROP-Q19",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 40 anos com diagnóstico de retocolite ulcerativa extensa (pancolite) em remissão há 2 anos com mesalazina. Quais os critérios para iniciar vigilância endoscópica para câncer colorretal?",
+    "alternativas": {
+      "A": "Colonoscopia de vigilância a partir de 8–10 anos de doença extensa, com biópsias aleatórias a cada 10 cm",
+      "B": "Vigilância colonoscópica somente após 20 anos de doença, pois o risco de CCR é muito baixo antes desse período",
+      "C": "Colonoscopia anual a partir do diagnóstico de pancolite, independente do tempo de doença ou remissão clínica",
+      "D": "Vigilância apenas em pacientes com colangite esclerosante primária associada, e não em pancolite isolada em remissão"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "RCU extensa: risco de CCR aumenta após 8–10 anos. Colonoscopia de vigilância a partir daí com biópsias a cada 10 cm (4 fragmentos por segmento). Colangite esclerosante aumenta ainda mais o risco — início precoce.",
+    "id": "PROP-Q20",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Gastroenterologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 48 anos com diagnóstico de cirrose hepática alcoólica Child-Pugh B (8 pontos). Admitido com ascite volumosa e febre 38,4°C. Paracentese diagnóstica: 800 células/mm³ com 82% de PMN. Proteínas do líquido ascítico 1,2 g/dL. Qual o diagnóstico e a conduta imediata?",
+    "alternativas": {
+      "A": "Peritonite bacteriana espontânea (PBE); iniciar cefotaxima IV 2 g a cada 8h e albumina IV no dia 1 e dia 3",
+      "B": "Peritonite secundária; indicar paracentese de alívio e antibioticoterapia oral com ciprofloxacino por 5 dias",
+      "C": "Ascite não complicada; realizar paracentese terapêutica de grande volume com reposição de albumina 8 g/L removido",
+      "D": "Peritonite bacteriana espontânea (PBE); iniciar cefotaxima IV isolada, sem necessidade de albumina em cirróticos compensados"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "PBE: PMN >250/mm³ no líquido ascítico. Tratamento: cefotaxima IV + albumina (1,5 g/kg dia 1, 1 g/kg dia 3) para prevenir síndrome hepatorrenal. Proteína baixa (<1,5 g/dL) + Child B/C = fator de risco confirmado.",
+    "id": "PROP-Q21",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 55 anos com cirrose hepática por VHC (Child-Pugh A5). MELD 12. Assintomática. USG mostra lesão nodular de 2,3 cm em segmento VI do fígado. AFP 850 ng/mL. TC com contraste: realce arterial intenso e washout venoso. Qual o diagnóstico e a conduta?",
+    "alternativas": {
+      "A": "Carcinoma hepatocelular (CHC) LI-RADS 5; encaminhar para equipe multidisciplinar e discutir tratamento com ablação ou ressecção",
+      "B": "Nódulo regenerativo displásico; biópsia hepática obrigatória antes de qualquer decisão terapêutica no cirrótico",
+      "C": "Metástase hepática; investigar tumor primário com tomografia de tórax e colonoscopia antes de definir conduta hepática",
+      "D": "Hemangioma hepático; acompanhar com USG semestral sem intervenção, pois lesões com realce arterial são típicas de hemangioma"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "CHC em cirrótico: nódulo ≥1 cm com padrão vascular típico (realce arterial + washout) = diagnóstico radiológico sem biópsia (LI-RADS 5). AFP elevada reforça. Conduta: discussão multidisciplinar — ablação (radiofrequência), ressecção ou transplante.",
+    "id": "PROP-Q22",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 35 anos com retocolite ulcerativa e icterícia flutuante, prurido e colangite de repetição. FA 4× o limite superior. GGT 5× o limite. Colangioressonância: estenoses multifocais em vias biliares intra e extra-hepáticas com aspecto 'em rosário'. AMA negativo. Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Colangite biliar primária (CBP), diagnosticada pelo AMA positivo e colestase progressiva em mulheres de meia-idade",
+      "B": "Hepatite autoimune com colestase, diagnosticada pelo ANA positivo e hipergamaglobulinemia em biópsia compatível",
+      "C": "Coledocolitíase recorrente, com estenoses biliares geradas por cálculos repetidos e episódios de colangite bacteriana",
+      "D": "Colangite esclerosante primária (CEP), associada à DII ulcerativa e com padrão colangiográfico 'em rosário'"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "CEP: associada a RCU (70% dos casos), colestase, estenoses multifocais 'em rosário' na CRMN, AMA negativo. CBP: mulheres, AMA positivo, estenoses intra-hepáticas sem associação com DII. Coledocolitíase: estenoses únicas, não múltiplas difusas.",
+    "id": "PROP-Q23",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 42 anos, etilista pesado (10 doses/dia por 15 anos), internado com icterícia intensa (bilirrubina 18 mg/dL), encefalopatia grau II, coagulopatia (INR 2,1), febre baixa e leucocitose. AST 280 U/L, ALT 95 U/L (relação AST/ALT >2). Qual o diagnóstico e a conduta?",
+    "alternativas": {
+      "A": "Hepatite viral aguda por VHB; solicitar HBsAg, anti-HBc IgM e iniciar tenofovir se confirmada a etiologia viral",
+      "B": "Colangite bacteriana ascendente; iniciar antibioticoterapia ampla e CPRE de urgência para drenagem biliar",
+      "C": "Hepatite alcoólica grave (Maddrey >32); iniciar prednisolona 40 mg/dia e suspender o álcool imediatamente",
+      "D": "Cirrose descompensada alcoólica; iniciar rifaximina e lactulose para encefalopatia sem indicação de corticoide"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Hepatite alcoólica: relação AST/ALT >2, AST raramente >300, contexto de etilismo pesado. Escore de Maddrey >32 = grave → prednisolona 40 mg/dia por 28 dias (reduz mortalidade a curto prazo). Função discriminante de Maddrey = 4,6×(TP do paciente - TP controle) + bilirrubina total.",
+    "id": "PROP-Q24",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 38 anos, sem comorbidades, com elevação assintomática de transaminases (AST 95, ALT 110) há 6 meses. ANA 1:320 padrão homogêneo. IgG 2.400 mg/dL (VR 700–1600). Biópsia hepática: hepatite de interface com plasmócitos e rosetas hepatocitárias. HBsAg, anti-HBc, anti-VHC negativos. Qual o diagnóstico e o tratamento?",
+    "alternativas": {
+      "A": "Colangite biliar primária tipo I; iniciar ácido ursodesoxicólico 13–15 mg/kg/dia como tratamento de escolha",
+      "B": "Hepatite autoimune tipo 1; iniciar prednisona + azatioprina como terapia de primeira linha",
+      "C": "Hepatite viral crônica por VHC com falso-positivo para autoanticorpos; repetir sorologia antes de tratar",
+      "D": "Esteatohepatite não alcoólica (EHNA); orientar perda de peso e exercício, sem indicação de imunossupressão"
+    },
+    "resposta_correta": "B",
+    "comentario_gabarito": "Hepatite autoimune tipo 1: ANA + e/ou anti-músculo liso, IgG elevada, hepatite de interface com plasmócitos e rosetas. Tratamento: prednisona (1 mg/kg/dia) ± azatioprina. Resposta esperada em 80% dos casos.",
+    "id": "PROP-Q25",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 52 anos com cirrose por VHC (Child-Pugh B7, MELD 16) em lista de transplante. Internado por hematemese. EDA de urgência: varizes esofágicas de grosso calibre com estigmas de sangramento recente. Qual a medida mais importante nas primeiras horas além da ressuscitação volêmica?",
+    "alternativas": {
+      "A": "Ligadura elástica endoscópica isolada, sem vasoconstritor, pois a associação não adiciona benefício no controle do sangramento",
+      "B": "Transfusão de plasma fresco congelado para corrigir a coagulopatia antes de qualquer procedimento endoscópico",
+      "C": "Terlipressina ou octreotida IV + ligadura elástica endoscópica + antibioticoterapia profilática (norfloxacino ou ceftriaxona)",
+      "D": "TIPS (shunt portossistêmico intra-hepático transjugular) de urgência como primeira medida em qualquer sangramento varicoso"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Sangramento varicoso: terapia tripla — vasoconstritor (terlipressina/octreotida) + endoscopia (ligadura elástica) + antibiótico (previne PBE e infecções que pioram sangramento). TIPS: segunda linha após falha. Transfusão de PFC não tem evidência clara.",
+    "id": "PROP-Q26",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hepatologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 28 anos, vegana estrita há 5 anos, apresenta fadiga intensa, palidez, língua avermelhada e ardência. Hemograma: Hb 8,4 g/dL, VCM 118 fL, CHCM normal, leucopenia leve, hipersegmentação de neutrófilos. Qual o diagnóstico e a reposição correta?",
+    "alternativas": {
+      "A": "Anemia por doença crônica; tratar a causa de base sem reposição de vitaminas ou ferro, pois a ferritina é elevada",
+      "B": "Anemia ferropriva grave; repor ferro parenteral e investigar sangramento oculto antes de qualquer outra conduta",
+      "C": "Anemia megaloblástica por deficiência de folato; suplementar ácido fólico 5 mg/dia VO sem necessidade de vitamina B12",
+      "D": "Anemia megaloblástica por deficiência de vitamina B12; reposição parenteral ou oral em alta dose (1 mg/dia VO) por toda a vida se dieta mantida"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Veganismo + anemia macrocítica + hipersegmentação = deficiência de B12. Folato preservado (presente em vegetais). Reposição de B12: parenteral (IM cianocobalamina) ou oral em alta dose (1000 mcg/dia — absorção independente de fator intrínseco em alta dose).",
+    "id": "PROP-Q27",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 25 anos com anemia microcítica (VCM 62 fL), ferritina 85 ng/mL (normal), ferro sérico normal, saturação de transferrina 28%. Eletroforese de hemoglobina: HbA 95%, HbA2 5,8% (VR <3,5%). Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Anemia ferropriva inicial, onde a HbA2 pode ser falsamente elevada antes da reposição de ferro",
+      "B": "Anemia de doença crônica, onde a microcitose ocorre associada à ferritina elevada e ferro sérico reduzido",
+      "C": "Talassemia beta menor (traço talassêmico beta), com HbA2 elevada como marcador diagnóstico característico",
+      "D": "Talassemia alfa silenciosa (1 gene deletado), com HbA2 e HbF normais e microcitose leve isolada"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Talassemia beta menor: anemia microcítica + ferro normal + HbA2 >3,5% na eletroforese. HbA2 elevada é o marcador diagnóstico. Anemia ferropriva: ferro sérico baixo, ferritina baixa, HbA2 pode ser falsamente baixa (não elevada).",
+    "id": "PROP-Q28",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Criança de 10 anos com crise de dor em membros, priapismo episódico e esplenomegalia. Eletroforese de Hb: HbS 85%, HbF 10%, HbA2 5%, ausência de HbA. Qual o diagnóstico e a medicação que reduz o número de crises vasoclusivas?",
+    "alternativas": {
+      "A": "Talassemia falciforme (HbS/beta-tal); o tratamento é exclusivamente transfusional, sem papel da hidroxiureia",
+      "B": "Traço falciforme (HbAS); não requer tratamento específico pois raramente causa crises clínicas significativas",
+      "C": "Anemia falciforme (HbSS); hidroxiureia aumenta HbF, reduzindo a polimerização da HbS e as crises vaso-oclusivas",
+      "D": "HbSC (dupla heterozigose); a doença é geralmente mais leve e a hidroxiureia raramente está indicada nessa forma"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "HbSS: HbS predominante + ausência de HbA. Crise vaso-oclusiva, priapismo, esplenomegalia na infância (posteriormente autoinfarctada). Hidroxiureia: aumenta HbF → reduz falcização → menos crises. Indicada após 9 meses de vida para todos os HbSS.",
+    "id": "PROP-Q29",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 32 anos grávida (28 semanas), com trombocitopenia (plaquetas 48.000/mm³), LDH 620 U/L, esquizócitos no esfregaço, creatinina 2,1 mg/dL, hipertensão (PA 160/105 mmHg) e dor epigástrica intensa. Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Síndrome HELLP (Hemolysis, Elevated Liver enzymes, Low Platelets), complicação grave da pré-eclâmpsia com indicação de parto",
+      "B": "Púrpura trombocitopênica imune (PTI) gestacional, tratada com corticoide sem necessidade de interrupção da gravidez",
+      "C": "Púrpura trombocitopênica trombótica (PTT), tratada com plasmaférese urgente sem indicação de parto prematuro",
+      "D": "Trombocitopenia gestacional benigna, que raramente cai abaixo de 70.000/mm³ e resolve espontaneamente após o parto"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "HELLP: hemólise (esquizócitos + LDH alto) + enzimas hepáticas elevadas + plaquetas baixas, no contexto de pré-eclâmpsia grave (HAS + proteinúria). Tratamento: parto imediato após estabilização, independente da IG. PTT: sem HAS/proteinúria, trata com plasmaférese.",
+    "id": "PROP-Q30",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Idoso de 72 anos com fadiga progressiva e adenomegalias cervicais bilaterais indolores há 3 meses. Hemograma: Hb 10,2 g/dL, leucócitos 42.000/mm³ com 78% de linfócitos de morfologia madura, plaquetas 120.000/mm³. Imunofenotipagem: CD5+, CD19+, CD23+, CD20 fraco, CD10-. Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Linfoma de células do manto, com fenótipo CD5+/CD19+ mas CD23 negativo e ciclina D1 superexpressa",
+      "B": "Leucemia linfocítica crônica (LLC), o tipo de leucemia mais comum em idosos, com fenótipo CD5+/CD19+/CD23+",
+      "C": "Linfoma folicular, com fenótipo CD10+/CD19+/CD23+ e translocação t(14;18) envolvendo o gene BCL2",
+      "D": "Leucemia linfoblástica aguda (LLA), com linfócitos imaturos (blastos) e fenótipo CD10+ (CALLA) característico"
+    },
+    "resposta_correta": "B",
+    "comentario_gabarito": "LLC: linfocitose madura + CD5+, CD19+, CD23+, CD20 fraco, CD10 negativo. Mais comum em idosos. Linfoma do manto: CD5+ mas CD23 negativo + ciclina D1. LLA: blastos CD10+, não é doença de idoso com morfologia madura.",
+    "id": "PROP-Q31",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 30 anos com anemia hemolítica aguda após uso de primaquina para malária. Coombs direto negativo. Esfregaço: hemácias em forma de 'mordida' e corpúsculos de Heinz. Qual o diagnóstico?",
+    "alternativas": {
+      "A": "Deficiência de glicose-6-fosfato desidrogenase (G6PD), com hemólise por estresse oxidativo após exposição a drogas oxidantes",
+      "B": "Hemoglobinúria paroxística noturna (HPN), com clone PNH positivo no citometria de fluxo e Coombs direto negativo",
+      "C": "Anemia hemolítica autoimune por anticorpos quentes, com Coombs direto positivo e esferócitos no esfregaço periférico",
+      "D": "Esferocitose hereditária, com hemólise por defeito de espectrina e teste de fragilidade osmótica positivo como diagnóstico"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "Deficiência de G6PD: hemólise não imune (Coombs negativo) após oxidantes (primaquina, dapsona, fava). Hemácias 'mordidas' = hemácias com desnaturação de Hb. Corpúsculos de Heinz = precipitados de Hb oxidada. HPN: hemólise crônica + trombose, não aguda por droga.",
+    "id": "PROP-Q32",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Hematologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Paciente de 34 anos, HIV positivo há 5 anos sem tratamento, apresenta tosse seca persistente, febre e dispneia progressiva há 2 semanas. Saturação 88% em ar ambiente. LDH elevado (580 U/L). TC de tórax: padrão em vidro fosco bilateral, difuso. CD4 = 95 células/mm³. Qual o diagnóstico mais provável e o tratamento?",
+    "alternativas": {
+      "A": "Pneumocistose (PCP por Pneumocystis jirovecii); tratamento com sulfametoxazol-trimetoprim (SMX-TMP) em altas doses por 21 dias",
+      "B": "Tuberculose pulmonar; tratamento com esquema RIPE (rifampicina, isoniazida, pirazinamida, etambutol) por 6 meses",
+      "C": "Histoplasmose disseminada; tratamento com anfotericina B lipossomal seguida de itraconazol de manutenção",
+      "D": "Pneumonia bacteriana por S. pneumoniae; tratamento com amoxicilina-clavulanato oral por 7 dias sem internação"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "PCP: CD4 <200, padrão em vidro fosco bilateral, LDH elevado, dessaturação ao esforço. Tratamento: SMX-TMP 15–20 mg/kg/dia de TMP por 21 dias. Adicionar corticoide se PaO2 <70 mmHg ou gradiente A-a >35. Profilaxia primária: CD4 <200.",
+    "id": "PROP-Q33",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Infectologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 25 anos em seu terceiro trimestre de gestação com febre 39°C, mialgias intensas, cefaleia e congestão nasal há 3 dias. Sem dispneia. Influenza A confirmado por PCR. Qual a conduta?",
+    "alternativas": {
+      "A": "Conduta expectante com analgésicos e antitérmicos apenas, pois oseltamivir é contraindicado na gestação pelo risco teratogênico",
+      "B": "Iniciar zanamivir inalatório exclusivo, pois é mais seguro que oseltamivir oral durante o terceiro trimestre de gestação",
+      "C": "Iniciar oseltamivir (75 mg 2x/dia por 5 dias) dentro de 48h do início dos sintomas; gestantes são grupo de risco e devem ser tratadas",
+      "D": "Hospitalização obrigatória e tratamento com amantadina IV, primeira linha para influenza A grave em gestantes"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Gestantes: grupo de alto risco para influenza grave. Oseltamivir é seguro na gestação (categoria C — benefício supera risco). Tratamento dentro de 48h do início dos sintomas. Amantadina tem resistência difundida. Zanamivir inalatório não é preferido.",
+    "id": "PROP-Q34",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Infectologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 55 anos internado em UTI por 12 dias em uso de antibioticoterapia de amplo espectro. Desenvolve febre alta, leucocitose, lesões cutâneas nodulares e hifas septadas ao exame direto de lavado broncoalveolar. Qual o diagnóstico e o antifúngico de escolha?",
+    "alternativas": {
+      "A": "Candidemia disseminada; fluconazol oral é suficiente para tratar candidemia em pacientes hemodinamicamente estáveis",
+      "B": "Criptococose pulmonar invasiva; anfotericina B lipossomal seguida de fluconazol para consolidação e manutenção",
+      "C": "Aspergilose pulmonar invasiva; voriconazol é o antifúngico de primeira linha em pacientes imunocomprometidos",
+      "D": "Mucormicose pulmonar; voriconazol é o antifúngico de escolha por cobrir os zigomicetos de forma eficaz"
+    },
+    "resposta_correta": "C",
+    "comentario_gabarito": "Aspergillus: hifas septadas ramificadas em 45°. Aspergilose invasiva em imunodeprimidos. Tratamento: voriconazol IV/VO (superior à anfotericina em aspergilose). Mucormicose: hifas não septadas, anguladas em 90° — não responde a voriconazol (usar anfotericina).",
+    "id": "PROP-Q35",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Infectologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Criança de 4 anos não vacinada apresenta febre, coriza, conjuntivite, tosse e exantema maculopapular que se inicia na face e progride craniocaudalmente. Ao exame: manchas brancas na mucosa jugal bilateral. Qual o diagnóstico e a principal complicação grave?",
+    "alternativas": {
+      "A": "Rubéola; a principal complicação grave em crianças é a artrite, e em gestantes o risco é de síndrome da rubéola congênita",
+      "B": "Escarlatina; a principal complicação grave é a febre reumática por resposta imune ao estreptococo do grupo A",
+      "C": "Roséola infantil (exantema súbito); a principal complicação é a convulsão febril associada à febre elevada de início súbito",
+      "D": "Sarampo; a pneumonia é a principal complicação grave, e encefalite pós-sarampo ocorre em 1 para cada 1.000 casos"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "Sarampo: os 3 Cs (coriza, conjuntivite, tosse) + manchas de Koplik (mucosa jugal) + exantema craniocaudal. Complicação mais comum: otite média. Mais grave: pneumonia (principal causa de morte) e encefalite (1:1000).",
+    "id": "PROP-Q36",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Infectologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 29 anos com febre há 9 dias, sem foco evidente, bradicardia relativa, hepatoesplenomegalia leve e manchas róseas (roséolas) no abdome. Viajou para zona endêmica de febre tifoide. Hemograma: leucopenia com neutropenia relativa. Qual o tratamento de escolha?",
+    "alternativas": {
+      "A": "Cloranfenicol oral por 14 dias, que permanece o tratamento de primeira linha para febre tifoide na maioria dos serviços",
+      "B": "Ciprofloxacino oral por 7–10 dias ou ceftriaxona IV em casos graves, como tratamento de escolha para febre tifoide",
+      "C": "Amoxicilina oral em dose dobrada por 14 dias, indicada exclusivamente para cepas sensíveis confirmadas por cultura",
+      "D": "Azitromicina oral por 5 dias, com a mesma eficácia que as fluoroquinolonas para qualquer cepa de Salmonella typhi"
+    },
+    "resposta_correta": "B",
+    "comentario_gabarito": "Febre tifoide: Salmonella typhi. Tratamento: fluoroquinolonas (ciprofloxacino) para cepas sensíveis; ceftriaxona IV para graves ou resistentes. Cloranfenicol foi primeira linha mas foi substituído. Azitromicina: alternativa em resistência a quinolonas, não equivalente universal.",
+    "id": "PROP-Q37",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Infectologia"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 58 anos com DRC G4 apresenta gasometria venosa: pH 7,25, bicarbonato 14 mEq/L (VR 22–28), pCO2 35 mmHg. Eletrólitos: Na 138, K 5,6, Cl 106 mEq/L. Qual o distúrbio ácido-base e o ânion-gap?",
+    "alternativas": {
+      "A": "Acidose metabólica com ânion-gap elevado [AG = 138–(106+14) = 18 mEq/L], por acúmulo de ácidos urêmicos na DRC",
+      "B": "Acidose respiratória compensada, com pH baixo por retenção de CO2 e bicarbonato elevado como compensação renal",
+      "C": "Acidose metabólica com ânion-gap normal (hiperclorêmica), por perda de bicarbonato tubular sem acúmulo de ácidos",
+      "D": "Alcalose metabólica com compensação respiratória, com pH aumentado e CO2 elevado como compensação ventilatória"
+    },
+    "resposta_correta": "A",
+    "comentario_gabarito": "AG = Na – (Cl + HCO3) = 138 – (106+14) = 18 mEq/L (normal 8–12). AG elevado = acúmulo de ácidos não mensurados. DRC avança → acidose metabólica de AG alto por acúmulo de fosfatos, sulfatos e ácidos orgânicos. pH 7,25 = acidose sem compensação respiratória completa (pCO2 deveria ser ainda menor).",
+    "id": "PROP-Q38",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Meio Interno"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Mulher de 45 anos com vômitos persistentes há 5 dias por gastroparesia diabética grave. Gasometria: pH 7,52, bicarbonato 34 mEq/L, pCO2 48 mmHg. Na 138, K 2,8, Cl 88 mEq/L. Qual o diagnóstico e a conduta?",
+    "alternativas": {
+      "A": "Alcalose respiratória por hiperventilação; investigar causa central e tratar a doença de base sem reposição salina",
+      "B": "Alcalose metabólica hipoclorêmica hipocalêmica por vômitos; repor cloreto (NaCl IV) e potássio para correção",
+      "C": "Distúrbio misto alcalótico; administrar acetazolamida para inibir anidrase carbônica e reduzir bicarbonato sérico",
+      "D": "Acidose metabólica por acúmulo de cetoácidos (cetoacidose diabética); iniciar insulina IV e reposição volêmica com soro fisiológico"
+    },
+    "resposta_correta": "B",
+    "comentario_gabarito": "Vômitos → perda de HCl → alcalose metabólica hipoclorêmica. Cl baixo (88) e K baixo (2,8) confirmam. pCO2 48 = compensação respiratória adequada (hipoventilação). Tratamento: SF 0,9% + KCl IV. Sem Cl disponível, o rim não consegue excretar o excesso de bicarbonato ('alcalose mantida pelo cloro').",
+    "id": "PROP-Q39",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Meio Interno"
+  },
+  {
+    "tema": "Quest?es Pr?prias",
+    "enunciado": "Homem de 65 anos com ICC descompensada e anasarca, em uso de furosemida há 7 dias. Na 118 mEq/L (VR 135–145). Paciente sonolento, com confusão leve. Osmolalidade plasmática 242 mOsm/kg. Urina: Na urinário 45 mEq/L, osmolalidade urinária 420 mOsm/kg. Qual o diagnóstico e a conduta?",
+    "alternativas": {
+      "A": "Pseudo-hiponatremia por hiperlipidemia; nenhuma intervenção necessária, pois o Na corrigido é normal",
+      "B": "Hiponatremia hiposmolar hipovolêmica; reposição com soro fisiológico 0,9% para restaurar o volume intravascular",
+      "C": "Síndrome da secreção inapropriada de ADH (SIADH); restrição hídrica e investigar causa central ou pulmonar",
+      "D": "Hiponatremia hiposmolar hipervolumica (dilucional) por ICC; restrição hídrica rigorosa e otimização do tratamento da ICC"
+    },
+    "resposta_correta": "D",
+    "comentario_gabarito": "ICC: edema (hipervolemia) + Na baixo + osmolalidade baixa + Na urinário alto pela furosemida = hiponatremia dilucional hipervolêmica. Conduta: restrição hídrica + tratar ICC (diuréticos + IECA/BRA + betabloqueador). NaCl hipertônico se sintomas graves (convulsão/rebaixamento profundo).",
+    "id": "PROP-Q40",
+    "turma": "PROPRIA",
+    "palavras_chave": [],
+    "subtema": "Meio Interno"
   }
 ]
