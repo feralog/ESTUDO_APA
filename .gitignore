@@ -1,0 +1,8 @@
+config.js
+NOTAS_LOCAIS.md
+*.docx
+extrair_questoes.py
+gerar_html.py
+__pycache__/
+*.pyc
+.temp/
